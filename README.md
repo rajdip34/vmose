@@ -1,10 +1,8 @@
-# PC-wIth-gestures
-## OpenCV / Python
-A python script for a coding competition
-It uses openCV library to feed user's hand movement and press left or right key.
-Just ignore controller.py, testing.py,OpenCVTest.py and OpenCVTest3.py.
+# hand gesture recognition ppt slides using pythonn cv2
+#installing
+###: pip3 install opencv-python
+###: pip3 install pyautogui
+### run : python3 Main.py
 
 Happy coding :)
 
-see this youtube video to know more:
-https://youtu.be/lRmVR6eZAJ0
