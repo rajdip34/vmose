@@ -1,4 +1,4 @@
-# hand gesture recognition ppt slides using pythonn cv2
+# hand gesture recognition ppt slides using python cv2
 #installing
 ###: pip3 install -r rq.txt
 
